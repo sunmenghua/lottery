@@ -1,0 +1,52 @@
+.app {
+  min-height: 500px;
+}
+
+.card {
+  border-radius: 0 !important;
+}
+
+.active {
+  border: 8px solid #ffe484;
+}
+
+.row {
+  width: 1002px !important;
+}
+
+.users {
+  min-height: 100px
+}
+
+.user {
+  width: 100px;
+  height: 100px;
+}
+
+.won-user-index {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  color: #fff;
+}
+
+.modal {
+  max-width: 400px;
+}
+
+.modal-backdrop {
+  opacity: .8 !important;
+}
+
+.close {
+  position: fixed;
+  top: 15px;
+  right: 30px;
+  color: #fff !important;
+  opacity: 1 !important;
+  font-size: 50px !important;
+}
+
+select {
+  width: 80px !important;
+}
